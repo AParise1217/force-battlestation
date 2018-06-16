@@ -171,6 +171,14 @@
                       <option name="name" value="ConnectedApp" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="X19fd_death_star_rug" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="ContentAsset" />
                     </MetadataType>
                     <MetadataType>
@@ -648,6 +656,14 @@
                       <option name="name" value="CustomObject" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="Battle_Station__c-en_US" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="CustomObjectTranslation" />
                     </MetadataType>
                     <MetadataType>
@@ -832,6 +848,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="th_con_app__Welcome" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Battle_Station__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
