@@ -12,6 +12,8 @@
     <tabs>Battle_Station__c</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-report</tabs>
+    <tabs>Resource__c</tabs>
+    <tabs>Supply__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Battle_Station_Construction_UtilityBar</utilityBar>
 </CustomApplication>

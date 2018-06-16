@@ -4,4 +4,6 @@
     <formFactors>Large</formFactors>
     <tabs>standard-AppLauncher</tabs>
     <tabs>Battle_Station__c</tabs>
+    <tabs>Resource__c</tabs>
+    <tabs>Supply__c</tabs>
 </CustomApplication>

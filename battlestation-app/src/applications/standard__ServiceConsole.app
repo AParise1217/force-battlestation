@@ -178,9 +178,17 @@
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
     <tabs>Battle_Station__c</tabs>
+    <tabs>Resource__c</tabs>
+    <tabs>Supply__c</tabs>
     <workspaceConfig>
         <mappings>
             <tab>Battle_Station__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Resource__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Supply__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>
