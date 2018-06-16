@@ -4,5 +4,6 @@
     <label>LightningInstrumentation</label>
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
+    <tabs>Battle_Station__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

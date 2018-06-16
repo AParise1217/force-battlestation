@@ -4,4 +4,5 @@
     <formFactors>Large</formFactors>
     <tabs>standard-Chatter</tabs>
     <tabs>standard-Sites</tabs>
+    <tabs>Battle_Station__c</tabs>
 </CustomApplication>

@@ -7,4 +7,5 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Battle_Station__c</tabs>
 </CustomApplication>

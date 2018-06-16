@@ -177,7 +177,11 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>Battle_Station__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Battle_Station__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

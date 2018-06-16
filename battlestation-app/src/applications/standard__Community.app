@@ -9,4 +9,5 @@
     <tabs>standard-IdeaTheme</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Battle_Station__c</tabs>
 </CustomApplication>
