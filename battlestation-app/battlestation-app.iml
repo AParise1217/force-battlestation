@@ -651,6 +651,18 @@
                             <option name="name" value="Metric" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Battle_Station__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Resource__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Supply__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                         </list>
                       </option>
                       <option name="name" value="CustomObject" />
@@ -660,6 +672,14 @@
                         <list>
                           <MetadataEntry>
                             <option name="name" value="Battle_Station__c-en_US" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Resource__c-en_US" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Supply__c-en_US" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -852,6 +872,14 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Battle_Station__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Resource__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Supply__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -1421,6 +1449,14 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Battle_Station__c-Battle Station Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Resource__c-Resource Layout" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Supply__c-Supply Layout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -2695,6 +2731,14 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Battle_Station__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Resource__c" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Supply__c" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
