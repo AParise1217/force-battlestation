@@ -106,7 +106,7 @@
         <label>All</label>
     </listViews>
     <nameField>
-        <label>Supplies Name</label>
+        <label>Supply Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Supplies</pluralLabel>
